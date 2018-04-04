@@ -7,7 +7,7 @@
 	<li> HTML5 </li>
 	<li> CSS3 </li>
 	<li> Javascript </li>
-	<li>
+	<li style=">
 		<ul>
 			<li><strong> Frameworks/Libraries </strong></li>
 			<li> Semantic UI </li>
