@@ -1,6 +1,4 @@
-## Welcome to Controle de estoques
-
-# Controle de Estoques para a disciplina de Engenharia de software II 
+# Controle de Estoque para a disciplina de Engenharia de software II 
 
 # Basic setup  - Movie store
 
