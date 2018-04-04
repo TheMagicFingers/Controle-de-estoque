@@ -65,7 +65,7 @@
 	
 ### Support or Contact
 
-MagicFingers LTDA &copy
+MagicFingers LTDA &copy;
 magicfingers@corp.com
 
 ![Alt text](https://www.healthypawspetinsurance.com/Images/V3/DogAndPuppyInsurance/Dog_CTA_Desktop_HeroImage.jpg)
