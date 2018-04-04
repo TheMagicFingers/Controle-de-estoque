@@ -1,44 +1,68 @@
 ## Welcome to Controle de estoques
 
-# Controle de Estoques para a disciplina de Engenharia de software II
-
-###
-
-### 
+# Controle de Estoques para a disciplina de Engenharia de software II 
 
 # Basic setup  - Movie store
 
-front end : 
-	- HTML5
-	- CSS3
-	- Javascript
-	Frameworks/Libraries
-		- Semantic UI
-		- SweetAlert2
-back end :
-	- node.js	
-	- socket.io
-	Frameworks/libraries
-		- express	
-		- body-parser
-		- ejs
-tools :
-	- npm
-	- editor de texto a sua escolha
-		- sublime/atom/vim/vi/VScode/nano/gedita
-	- Github Projects
-	- Git for data versioning
-	- Heroku
-	- invisionAP(prototyping)
-	- Gitter
-	- Discord
-API
-	- omdb
+#### front end :
+<ul>
+	<li> HTML5 </li>
+	<li> CSS3 </li>
+	<li> Javascript </li>
+	<li>
+		<ul>
+			<li><strong> Frameworks/Libraries </strong></li>
+			<li> Semantic UI </li>
+			<li> SweetAlert2 </li>
+		</ul>
+	</li>
+</ul>
+<hr>
 
-database:
-	- mySQL
+#### back end :
+<ul>
+	<li> node.js </li>
+	<li> socket.io </li>
+	<li>
+		<ul>
+			<li> <strong>Frameworks/libraries</strong> </li>
+			<li>express</li>	
+			<li>body-parser</li>
+			<li>ejs</li>		
+		</ul>
+	</li>
+</ul>
+<hr>
+
+#### tools :
+<ul>
+	<li>npm</li>	
+	<li>body-parser</li>
+	<li>ejs</li>
+	<li>
+		<ul>
+			<li> Github Projects </li>
+			<li> Git for data versioning </li>
+			<li> Heroku </li>
+			<li> invisionAP(prototyping) </li>
+			<li> Gitter </li>
+			<li> Discord </li>
+		</ul>
+	</li>
+</ul>
+<hr>
+
+#### API
+<ul>
+	<li> omdb </li>
+</ul>
+<hr>
+
+#### database:
+<ul>
+	<li>mySQL</li>
+</ul>
 	
-
 ### Support or Contact
 
 MagicFingers LTDA &copy
