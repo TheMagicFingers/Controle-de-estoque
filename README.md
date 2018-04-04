@@ -66,5 +66,5 @@
 MagicFingers LTDA &copy;
 magicfingers@corp.com
 
-<p align='center'>![Alt text](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif) </p>
+![Alt text](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
 
