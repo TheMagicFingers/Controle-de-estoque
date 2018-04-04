@@ -2,18 +2,46 @@
 
 # Controle de Estoques para a disciplina de Engenharia de software II
 
-### Markdown
+###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 
 
-![Alt text](https://www.healthypawspetinsurance.com/Images/V3/DogAndPuppyInsurance/Dog_CTA_Desktop_HeroImage.jpg)
+# Basic setup  - Movie store
 
-If you like dogs you will like us too! <3
+front end : 
+	- HTML5
+	- CSS3
+	- Javascript
+	Frameworks/Libraries
+		- Semantic UI
+		- SweetAlert2
+back end :
+	- node.js	
+	- socket.io
+	Frameworks/libraries
+		- express	
+		- body-parser
+		- ejs
+tools :
+	- npm
+	- editor de texto a sua escolha
+		- sublime/atom/vim/vi/VScode/nano/gedita
+	- Github Projects
+	- Git for data versioning
+	- Heroku
+	- invisionAP(prototyping)
+	- Gitter
+	- Discord
+API
+	- omdb
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheMagicFingers/Controle-de-estoque/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+database:
+	- mySQL
+	
 
 ### Support or Contact
 
 MagicFingers LTDA &copy
+magicfingers@corp.com
+
+![Alt text](https://www.healthypawspetinsurance.com/Images/V3/DogAndPuppyInsurance/Dog_CTA_Desktop_HeroImage.jpg)
